@@ -3,6 +3,7 @@
 HarmonyOS
 
 苹果
+!水果
 iphone
 ipad
 mac
@@ -11,8 +12,6 @@ ios
 ai
 !gai
 人工智能
-
-手机
 
 芯片
 光刻机

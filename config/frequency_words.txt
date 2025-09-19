@@ -1,10 +1,12 @@
 华为
 鸿蒙
+鸿蒙6
 HarmonyOS
 
 苹果
 !水果
 iphone
+iphone air
 ipad
 mac
 ios

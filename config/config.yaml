@@ -24,8 +24,8 @@ crawler:
 #   • 适用场景：避免重复信息干扰
 
 report:
-  mode: "daily" # 可选: "daily"|"incremental"|"current"
-  rank_threshold: 5 # 排名高亮阈值
+  mode: "incremental" # 可选: "daily"|"incremental"|"current"
+  rank_threshold: 7 # 排名高亮阈值
 
 notification:
   enable_notification: true # 是否启用通知功能，如果 false，则不发送手机通知
@@ -67,8 +67,6 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
-  - id: "toutiao"
-    name: "今日头条"
   - id: "baidu"
     name: "百度热搜"
   - id: "wallstreetcn-hot"
